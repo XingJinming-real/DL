@@ -11,5 +11,3 @@
 * nlp
   * ...
 
-根据Dive into deep Learning学习整理得
-
