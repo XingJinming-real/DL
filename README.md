@@ -11,3 +11,10 @@
 * nlp（待完善）
   * ...
 
+---
+The implementation of Deep Learning, the details are as follows.
+* cv
+  * Classification
+  * Dection (pending)
+  * Segmentation (pending)
+* nlp (pending)
